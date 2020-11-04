@@ -1,0 +1,30 @@
+body{background-color: white;}
+*{margin: 0; padding: 0;}
+
+#login {width: 500px;height: 600px; text-align: center; border: 1px solid ;border-right-color: gainsboro;
+    background-color: white;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    
+}
+#login a{text-decoration: none;}
+#login{position: fixed; top: 0; bottom: 0; left: 0; right: 0; margin: auto;}
+
+a:hover{text-decoration: none;}
+header{ margin: 15px 0px ;}
+header p{margin-top:20px;}
+
+main input{border: none;}
+main input[type=text]{width: 350px;height: 30px;border-bottom: 1px solid gray;}
+[type=password]{width: 350px;height: 30px;border-bottom: 0px solid gray;}
+main input[type=submit]{width: 350px;height: 30px;}
+
+form{margin-bottom: 40px;}
+
+footer{margin-bottom: 50px;width: 300px; margin: 0 auto;}
+footer{margin-top: 40px;}
+.socialmedia p{margin: 20px 0px;}
+.socialmedia img{width: 35px;}
+.socialmedia a{text-decoration: none;}
+a:hover{}
